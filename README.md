@@ -18,8 +18,8 @@ Written using Microsoft Visual Studio.
 
 ## Algorithm
 
-1. Enter the desired value, row, and column, each separated by a space.
-2. Enter the desired row and column, each separated by a space.
+	1. Enter the desired value, row, and column, each separated by a space.
+	2. Enter the desired row and column, each separated by a space.
 
 ## Requirements
 No requirements or modules needed for running this program.
